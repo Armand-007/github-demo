@@ -1,2 +1,3 @@
 # github-demo
-Demo repository to show git workflow
+![Branching](C:\Users\User\projects\github-demo)
+
